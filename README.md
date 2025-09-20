@@ -20,7 +20,7 @@ VGG16, VGG-19, MobileNet, and MobileNetV2 trained and validated on 18 classes
 of tomatoes, apples, potatoes and grapes. After this, their accuracy, precision, recall,
 f1-score, size, and inference time are compared to find the optimal algorithm.
 
-<img width="823" height="927" alt="image" src="https://github.com/user-attachments/assets/5f060c95-23eb-46bd-a54e-d7c51a4936ed" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/5f060c95-23eb-46bd-a54e-d7c51a4936ed" />
                         FLOWCHART 
 <img width="666" height="302" alt="image" src="https://github.com/user-attachments/assets/6fa6a42e-b871-482e-aff9-6d0187280c2a" />
                       BLOCK DIAGRAM OF SYSTEM
