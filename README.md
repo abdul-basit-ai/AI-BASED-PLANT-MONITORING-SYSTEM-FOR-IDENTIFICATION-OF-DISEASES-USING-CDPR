@@ -21,16 +21,14 @@ of tomatoes, apples, potatoes and grapes. After this, their accuracy, precision,
 f1-score, size, and inference time are compared to find the optimal algorithm.
 
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/5f060c95-23eb-46bd-a54e-d7c51a4936ed" />
-                FLOWCHART 
+FLOWCHART 
 <img width="500" height="302" alt="image" src="https://github.com/user-attachments/assets/6fa6a42e-b871-482e-aff9-6d0187280c2a" />
-                BLOCK DIAGRAM OF SYSTEM
+BLOCK DIAGRAM OF SYSTEM
 <img width="500" height="733" alt="image" src="https://github.com/user-attachments/assets/de58f2eb-fe66-42fb-ae4c-bd21197c78fb" />
-                      CLASSIFICATION PROCESS          
+  CLASSIFICATION PROCESS          
 <img width="392" height="427" alt="image" src="https://github.com/user-attachments/assets/0c729f71-f1b0-4283-878e-1e71ee582ebb" />
-                    END-EFFECTOR OF CDPR-ROBOT
-<img width="392" height="427" alt="image" src="https://github.com/user-attachments/assets/e656c65b-598f-475d-9cc5-c8b3957fee98" />
-                    TRAINING RESULTS
+END-EFFECTOR OF CDPR-ROBOT
 <img width="500" height="436" alt="image" src="https://github.com/user-attachments/assets/93565294-7566-4450-bcc2-1beebfeae900" />
-
+ TRAINING RESULTS
 
 
